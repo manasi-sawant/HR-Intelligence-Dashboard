@@ -48,7 +48,7 @@ Export / Share: Export key visuals or share the report with stakeholders.
 Power BI – Data visualization & dashboard creation
 📷 Dashboard Screenshots
 EXECUTIVE PAYROLL OVERVIEW
-
+https://github.com/manasi-sawant/HR-Intelligence-Dashboard/blob/380c4ab20bc68a9d87e9df4cba7ae6d8b3b2ee2c/Screenshot%202026-01-03%20122727.png
 EXECUTIVE PAYROLL OVERVIEW
 
 PAYROLL RISK & INTELLIGENCE
