@@ -1,37 +1,70 @@
-📊 ZENVY HR Intelligence Dashboard — README
+
+# HR-Intelligence-Dashboard-for-ZENVY.
+The *HR Intelligence Dashboard for ZENVY* analyzes employee attendance, salary, overtime, and payment data using key fields like Attendance Days, Gross/Net Salary, and Overtime Hours. It helps HR teams identify payroll issues, attendance gaps, and workforce irregularities efficiently.
+
+
+
+### 📊 ZENVY HR Intelligence Dashboard — README
 🧾 Project Overview
 
 The ZENVY HR Intelligence Dashboard is a Power BI report designed to provide actionable insights into workforce attendance, payroll accuracy, and overtime patterns. It enables HR and leadership teams to monitor key workforce metrics, detect anomalies (like ghost employees or salary leakages), and improve operational decision-making.
 
-📌 Data Source
+### 📌 Data Source
+
 The dashboard uses the ZENVY HR Intelligence Dataset with the following fields:
 
-Field Description
-Employee_ID Unique identifier for each employee Employee_Name Name of the employee Employee_Status Active / Inactive Employment_Type Full-time / Contract / Part-time Department Department name Designation Job title Gender Gender Location Office location Date_of_Joining Employee start date Attendance_Days Total attendance days in a period Base_Salary Fixed salary Gross_Salary Salary before deductions Net_Salary Salary after deductions Deductions Salary deductions Overtime_Hours Overtime worked Overtime_Pay Overtime payment Payment_Date Salary paid date
+### Field	Description
+Employee_ID	Unique identifier for each employee
+Employee_Name	Name of the employee
+Employee_Status	Active / Inactive
+Employment_Type	Full-time / Contract / Part-time
+Department	Department name
+Designation	Job title
+Gender	Gender
+Location	Office location
+Date_of_Joining	Employee start date
+Attendance_Days	Total attendance days in a period
+Base_Salary	Fixed salary
+Gross_Salary	Salary before deductions
+Net_Salary	Salary after deductions
+Deductions	Salary deductions
+Overtime_Hours	Overtime worked
+Overtime_Pay	Overtime payment
+Payment_Date	Salary paid date
 
-🧠 Key Features & Insights
-🔍 Workforce Compliance & Accuracy
+### 🧠 Key Features & Insights
+### 🔍 Workforce Compliance & Accuracy
+
 Attendance Monitoring: Detect attendance gaps or missing punch data.
 
 Ghost Employee Detection: Identify active employees with no valid attendance or work records.
 
 Overtime Abuse: Highlight excessive overtime hours/pay beyond policy limits.
 
-💰 Payroll Integrity
+
+
+### 💰 Payroll Integrity
+
 Salary Leakage Analysis: Compare pay vs. actual attendance & work hours.
 
 Net vs. Gross Salary Trends: Analyze deduction patterns and discrepancies.
 
 Duplicate Salary Detection: Identify multiple salary credits in the same period.
 
-📊 Interactive Analytics
+
+
+### 📊 Interactive Analytics
+
 Dynamic Filters: Slice by Department, Location, Employment Type, Date, etc.
 
 Drill-Down Views: From organization level analytics to individual employee detail.
 
 Visual KPIs: Bar charts, heatmaps, trend lines for quick interpretation.
 
-🛠 How to Use the Dashboard
+
+
+### 🛠 How to Use the Dashboard
+
 Load Dataset: Import the ZENVY HR Intelligence Dataset into Power BI.
 
 Refresh Data: Ensure all attendance and payroll files are up to date.
@@ -42,15 +75,26 @@ Analyze Visuals: Explore trends, anomalies, and performance across HR metrics.
 
 Export / Share: Export key visuals or share the report with stakeholders.
 
-📈 Business Benefits
-✔ Detect and eliminate payroll fraud ✔ Improve attendance and policy compliance ✔ Reduce unnecessary overtime payments ✔ Support strategic HR planning with real data
 
-Power BI – Data visualization & dashboard creation
-📷 Dashboard Screenshots
-EXECUTIVE PAYROLL OVERVIEW
-https://github.com/manasi-sawant/HR-Intelligence-Dashboard/blob/380c4ab20bc68a9d87e9df4cba7ae6d8b3b2ee2c/Screenshot%202026-01-03%20122727.png
-EXECUTIVE PAYROLL OVERVIEW
 
-PAYROLL RISK & INTELLIGENCE
-PAYROLL RISK & INTELLIGENCE# HR-Intelligence-Dashboard
-The HR Intelligence Dashboard provides a comprehensive view of workforce metrics such as employee demographics, attendance, salary, overtime, and performance. It helps HR teams identify trends, detect salary leakage or overtime misuse, and support data-driven decisions for workforce planning and cost optimization.
+### 📈 Business Benefits
+
+✔ Detect and eliminate payroll fraud
+✔ Improve attendance and policy compliance
+✔ Reduce unnecessary overtime payments
+✔ Support strategic HR planning with real data
+
+
+
+
+### Power BI – Data visualization & dashboard creation
+
+
+## 📷 Dashboard Screenshots
+### EXECUTIVE PAYROLL OVERVIEW
+![EXECUTIVE PAYROLL OVERVIEW](https://github.com/manasi-sawant/HR-Intelligence-Dashboard/blob/380c4ab20bc68a9d87e9df4cba7ae6d8b3b2ee2c/Screenshot%202026-01-03%20122727.png)
+### PAYROLL RISK & INTELLIGENCE
+![PAYROLL RISK & INTELLIGENCE](https://github.com/manasi-sawant/HR-Intelligence-Dashboard/blob/11d3bf86817166f7c9f10dc2a6d795b62d5cc3f7/Screenshot%202026-01-03%20122742.png)
+
+### PAYROLL RISK & INTELLIGENCE
+![PAYROLL RISK & INTELLIGENCE](https://github.com/manasi-sawant/HR-Intelligence-Dashboard/blob/11d3bf86817166f7c9f10dc2a6d795b62d5cc3f7/Screenshot%202026-01-03%20122742.png)
