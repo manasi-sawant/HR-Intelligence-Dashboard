@@ -96,5 +96,3 @@ Export / Share: Export key visuals or share the report with stakeholders.
 ### PAYROLL RISK & INTELLIGENCE
 ![PAYROLL RISK & INTELLIGENCE](https://github.com/manasi-sawant/HR-Intelligence-Dashboard/blob/11d3bf86817166f7c9f10dc2a6d795b62d5cc3f7/Screenshot%202026-01-03%20122742.png)
 
-### PAYROLL RISK & INTELLIGENCE
-![PAYROLL RISK & INTELLIGENCE](https://github.com/manasi-sawant/HR-Intelligence-Dashboard/blob/11d3bf86817166f7c9f10dc2a6d795b62d5cc3f7/Screenshot%202026-01-03%20122742.png)
